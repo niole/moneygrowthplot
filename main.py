@@ -2,6 +2,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 """
+requires a csv with money and date columns
+
 What do we want to know?
 biggest stock movement day
 what does my money movement look like without paychecks
